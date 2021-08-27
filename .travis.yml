@@ -11,4 +11,4 @@ before_deploy:
 
 deploy:
   provider: script
-  script: docker push vincentmoreau/node2
+  script: docker push vincentmoreau/node
